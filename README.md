@@ -1,1 +1,2 @@
-# web-dev-practice-tindog
+# TinDog Website
+- This is my first website designed for startups.
